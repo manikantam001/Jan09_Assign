@@ -1,0 +1,14 @@
+E:\vs_assign\Jan09Assign\Jan09Assign\bin\Debug\net8.0\Jan09Assign.exe
+E:\vs_assign\Jan09Assign\Jan09Assign\bin\Debug\net8.0\Jan09Assign.deps.json
+E:\vs_assign\Jan09Assign\Jan09Assign\bin\Debug\net8.0\Jan09Assign.runtimeconfig.json
+E:\vs_assign\Jan09Assign\Jan09Assign\bin\Debug\net8.0\Jan09Assign.dll
+E:\vs_assign\Jan09Assign\Jan09Assign\bin\Debug\net8.0\Jan09Assign.pdb
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.AssemblyInfoInputs.cache
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.AssemblyInfo.cs
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.csproj.CoreCompileInputs.cache
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.dll
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\refint\Jan09Assign.dll
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.pdb
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\Jan09Assign.genruntimeconfig.cache
+E:\vs_assign\Jan09Assign\Jan09Assign\obj\Debug\net8.0\ref\Jan09Assign.dll
